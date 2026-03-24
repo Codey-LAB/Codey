@@ -1,4 +1,4 @@
-# The Codey Gazette — 2026-03-06
+# The Codey Gazette — 2026-03-15
 
 ![]( https://github.com/VolkanSah.png?size=80)
 
@@ -6,20 +6,20 @@
 
 ---
 
-## BREAKING: 606 real stars (+1 since yesterday)
+## BREAKING: 607 real stars (+0 since yesterday)
 
 > GitHub/Shields inflates your count with self-stars and fork stars.
-> Their number: **819** — the inflation: **213**. You're welcome.
+> Their number: **810** — the inflation: **203**. You're welcome.
 
 ---
 
 | | Count |
 |---|---|
-| Real stars (earned) | **606** |
-| Self-stars removed | 177 |
+| Real stars (earned) | **607** |
+| Self-stars removed | 167 |
 | Fork stars removed | 36 |
-| GitHub / Shields shows | 819 |
-| Inflation | 213 |
+| GitHub / Shields shows | 810 |
+| Inflation | 203 |
 
 ---
 
@@ -28,13 +28,13 @@
 
 | | Active | Archived | Total |
 |---|---|---|---|
-| Own Repos | 124 | 4 | 128 |
-| Own Stars | 542 | 64 | **606** |
-| Forks | 83 | 0 | 83 |
+| Own Repos | 125 | 6 | 131 |
+| Own Stars | 515 | 92 | **607** |
+| Forks | 85 | 0 | 85 |
 | Fork Stars _(not counted)_ | 36 | 0 | 36 |
 
-- Fork Ratio: 0.67 — clean
-- Repos with 0 stars: 32
+- Fork Ratio: 0.68 — clean
+- Repos with 0 stars: 35
 
 </details>
 
@@ -49,10 +49,10 @@
 | optimize-MySQL-MariaDB | 30 |
 | WordPress-Security-Scanner-advanced-use | 22 |
 | ModSecurity-Webserver-Protection-Guide | 22 |
-| aicc-comments-reply | 21 |
 | Auto-Proxy-Fetcher | 18 |
 | PoisonIvory | 15 |
 | Bitcoin-Lottery-Miner | 11 |
+| Implementing-AI-Systems-Whitepaper | 9 |
 
 </details>
 
@@ -67,7 +67,6 @@
 | optimize-MySQL-MariaDB | 30 |
 | WordPress-Security-Scanner-advanced-use | 22 |
 | ModSecurity-Webserver-Protection-Guide | 22 |
-| aicc-comments-reply | 21 |
 | Auto-Proxy-Fetcher | 18 |
 | PoisonIvory | 15 |
 | Bitcoin-Lottery-Miner | 11 |
@@ -82,7 +81,6 @@
 | The_Extractor.py | 6 |
 | SQLp-EDU | 6 |
 | InteliLink | 6 |
-| WP-Claude-Interface | 6 |
 | Detection-Labs-for-Palantir-Style-Activity | 6 |
 | ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP | 5 |
 | Human-like-Instagram-Unfollower | 5 |
@@ -162,6 +160,8 @@
 | Repository | Stars |
 |---|---|
 | ChatGPT-ShellMaster | 59 |
+| aicc-comments-reply | 21 |
+| WP-Claude-Interface | 7 |
 | Social-Media-Poster-GUI | 4 |
 | Obsidian-Nightfall | 1 |
 | The-Guild-2-Gun-Factory | 0 |

@@ -1,5 +1,6 @@
 
 # 🐾 Codey - Your Brutally Honest GitHub Stats/Pet
+###### v.2.2.3 dev
 
 
 
@@ -9,12 +10,28 @@
   </a>
 </p>
 
-
-
-> ... with some actions toolbox you will ❤️ **Sources: [DEV-Codey](https://github.com/volkansah/Codey)** note: use always latest on [Codey`s Lab](https://github.com/Codey-LAB/Codey)
-please note that animated SVGs can be heavy.. soon more (light) skins 
+> [!WARNING]
+> Animated SVGs can be GPU-heavy — lighter skins are on the way.
+>
+> Testing Codey from: 05.03-15.03.2026 for metrics
 
 ---
+
+> Don't just hug Codey — explore the Actions Toolbox and give a ⭐ if you ❤️ it!
+
+
+---
+> [!IMPORTANT]
+> Codey is under active development — always use the latest release from [Codey's Lab](https://github.com/Codey-LAB/Codey) *(stable builds land here first)*.
+> This repo ([DEV-Codey](https://github.com/VolkanSah/Codey)) is where the chaos happens. 🔬
+
+
+
+
+
+
+---
+
 
 
 
@@ -267,7 +284,8 @@ see [.codey_themes](.codey_themes) folder
 - Cuty (cute robot)
 - CyberCat (neon)
 - Evil Robot (dark) — soon
-- Ghost (blue/green) — soon
+- Ghost (blue/green)
+- Blue Hell (BSOD)
 - + Community themes welcome
 > please, set theme/skin in `example.codey.config` and rename it to `codey.config`
 
@@ -321,16 +339,25 @@ see [.codey_themes](.codey_themes) folder
 - [x] API endpoint — yes and no, you'll see :D
 - [x] Codey Star_Report now 100 % ⭐
 - [x] Blue Hell default theme
-- [x] Penalty/Bonus split -  (in dev and core + soon 2.2.3)
+- [x] Penalty/Bonus split -  (in dev and core + some in >2.2.2)
+- [x] more usability for update_codey.yml
+- [x] added inflation (value = self_starred)
+- [x] Updated/optimized cuty, cat, ghost to version >2.3.x
+- [x] Ghost Skin relased
+- [x] RUN GUARD to avoid multi calculations
+- [x] Default Theme Patch - crafting on new logic, for more brutal stats (in dev + soon 2.2.3)
+- [x] Optimize Cuty for less GPU usage + ad values and sort UI  (in dev + > 2.2.2)
+- [x] add `Fallback` bypass in env for devloping
+- [x] Rename quality_curator to selective_networker (bonus not penalty)
 
 
 #### In progress
-- [ ] Issue quality analysis — found new patterns, needs fixing
+
+- [x] Issue quality analysis — found new patterns, needs fixing
 - [ ] Heartbeat — logic test (mostly not public, sorry)
 - [ ] Outsorce logic of update core and use Codey Starreport for more brutal stats.
-- [x] Default Theme Patch - crafting on new logic, for more brutal stats (in dev + soon 2.2.3)
-- [ ] Kali Linux Skin
-- [x] Optimize Cuty for less GPU usage + ad values and sort UI  (in dev + soon 2.2.3)
+- [ ] ome other Skins
+
 
 #### Planned
 - [ ] GitLab support
@@ -338,10 +365,8 @@ see [.codey_themes](.codey_themes) folder
 - [ ] brain_bug.log as official feature (when Brain is ready)
 
 ### Pending (v2.3.0)
-- [ ] Implement Game Logic v2 in update_codey.py
+- [ ] Implement Game Logic v2 in update_codey.py se branche 
 - [ ] Recalculate and test GAME_BALANCE values
-- [ ] Rename quality_curator to selective_networker (bonus not penalty)
-- [ ] Fix Kali theme — same backslash escape as PowerShell
 - [ ] Decision: codey_theme_base.py or keep everything in update_codey.py
 - [ ] Simulate full week with new logic before deploying
 - [ ] Lingo for some themes
@@ -392,9 +417,17 @@ see [.codey_themes](.codey_themes) folder
 
 <details>
 <summary> - Changelog - </summary> 
+  
+### [2.2.3]
+- [NEW] RUN GUARD — skips all API calls if already updated today (calendar-day based)
+- [NEW] Fallback Bypass — opt-in via CODEY_FALLBACK=true env (saves API credits)
+- [FIX] self_starred stored as set() → JSON crash fixed (now int: self_starred_count)
+- [FIX] social_bonuses wrongly stored in penalties[] (quality_curator etc.)
+- Optimize & Update default skins with some fixes for performance (Cuty, Cat)
+- Ghost(y) theme/skin released (heavy animations — use ANIMATION_POWER=light if needed)
+- some small fixes, here and there (see code)
 
-
-### [2.2.2] — 2026-03-03
+### [2.2.2] 
 
 ### Fixed
 - [FIX] fetch_real_stars() — switched from broken GraphQL to REST API
@@ -697,6 +730,11 @@ The ESOL is a mandatory, non-severable condition of use. By using this software,
 > Jurisdiction: Germany (Berlin) — enforced under StGB §202a/b/c and DSGVO.  
 > [ESOL v1.1](https://github.com/ESOL-License/ESOL/)
 > Read code header why for codey too!!! its not a game its an open source audit!
+
+
+
+
+
 
 
 

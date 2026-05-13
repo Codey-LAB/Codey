@@ -1,11 +1,11 @@
 {
-  "health": 28.070833333333336,
-  "hunger": 24.212500000000002,
+  "health": 33.733333333333334,
+  "hunger": 1.2,
   "happiness": 0.0,
-  "energy": 60.0,
+  "energy": 100,
   "level": 4,
-  "streak": 8,
-  "total_commits": 340,
+  "streak": 0,
+  "total_commits": 366,
   "mood": "elite",
   "rpg_stats": {},
   "achievements": [
@@ -18,307 +18,305 @@
   ],
   "history": [
     {
-      "timestamp": "2026-03-07T10:23:12.288998+00:00",
-      "daily_commits": 0,
+      "timestamp": "2026-04-14T07:56:51.346877+00:00",
+      "daily_commits": 11,
       "daily_prs": 0,
-      "health": 50,
-      "mood": "neutral",
-      "streak": 0,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-08T06:53:09.432545+00:00",
-      "daily_commits": 51,
-      "daily_prs": 0,
-      "health": 47.449999999999996,
+      "health": 33.69166666666667,
       "mood": "elite",
-      "streak": 0,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-09T07:11:02.497636+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 39.94999999999999,
-      "mood": "exhausted",
-      "streak": 1,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-10T06:59:39.731470+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 36.94999999999999,
-      "mood": "elite",
-      "streak": 0,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-11T07:02:57.598793+00:00",
-      "daily_commits": 38,
-      "daily_prs": 0,
-      "health": 34.399999999999984,
-      "mood": "elite",
-      "streak": 0,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-12T07:04:37.886170+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 28.27857142857141,
-      "mood": "exhausted",
-      "streak": 1,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-13T07:03:05.097931+00:00",
-      "daily_commits": 15,
-      "daily_prs": 0,
-      "health": 29.84047619047617,
-      "mood": "elite",
-      "streak": 0,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-14T06:57:12.999008+00:00",
-      "daily_commits": 63,
-      "daily_prs": 0,
-      "health": 24.84464285714284,
-      "mood": "struggling",
-      "streak": 1,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-15T07:06:54.715385+00:00",
-      "daily_commits": 40,
-      "daily_prs": 0,
-      "health": 33.333333333333336,
-      "mood": "exhausted",
-      "streak": 2,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-16T07:27:11.121840+00:00",
-      "daily_commits": 5,
-      "daily_prs": 0,
-      "health": 33.333333333333336,
-      "mood": "exhausted",
-      "streak": 3,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-17T07:13:27.606672+00:00",
-      "daily_commits": 60,
-      "daily_prs": 0,
-      "health": 31.541666666666668,
-      "mood": "exhausted",
       "streak": 4,
       "tier": "elder"
     },
     {
-      "timestamp": "2026-03-18T07:11:01.821092+00:00",
-      "daily_commits": 14,
+      "timestamp": "2026-04-15T07:57:55.545889+00:00",
+      "daily_commits": 0,
       "daily_prs": 0,
-      "health": 33.333333333333336,
-      "mood": "exhausted",
+      "health": 30.872395833333332,
+      "mood": "elite",
       "streak": 5,
       "tier": "elder"
     },
     {
-      "timestamp": "2026-03-19T07:05:32.752845+00:00",
-      "daily_commits": 36,
-      "daily_prs": 0,
-      "health": 33.333333333333336,
-      "mood": "exhausted",
-      "streak": 6,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-20T07:04:01.786922+00:00",
-      "daily_commits": 9,
-      "daily_prs": 0,
-      "health": 33.333333333333336,
-      "mood": "exhausted",
-      "streak": 7,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-21T06:54:23.207088+00:00",
+      "timestamp": "2026-04-16T07:57:10.809853+00:00",
       "daily_commits": 0,
       "daily_prs": 0,
-      "health": 33.275,
-      "mood": "exhausted",
-      "streak": 8,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-22T06:59:24.181775+00:00",
-      "daily_commits": 6,
-      "daily_prs": 0,
-      "health": 35.00833333333333,
+      "health": 32.858333333333334,
       "mood": "elite",
-      "streak": 7,
+      "streak": 4,
       "tier": "elder"
     },
     {
-      "timestamp": "2026-03-23T07:20:14.762536+00:00",
-      "daily_commits": 2,
+      "timestamp": "2026-04-17T07:58:32.606120+00:00",
+      "daily_commits": 0,
       "daily_prs": 0,
-      "health": 29.82916666666667,
-      "mood": "exhausted",
-      "streak": 8,
+      "health": 33.68666666666667,
+      "mood": "elite",
+      "streak": 3,
       "tier": "elder"
     },
     {
-      "timestamp": "2026-03-24T07:12:37.643565+00:00",
-      "daily_commits": 35,
+      "timestamp": "2026-04-18T07:18:11.107655+00:00",
+      "daily_commits": 0,
       "daily_prs": 0,
-      "health": 25.97916666666667,
-      "mood": "exhausted",
-      "streak": 9,
+      "health": 33.68666666666667,
+      "mood": "elite",
+      "streak": 2,
       "tier": "elder"
     },
     {
-      "timestamp": "2026-03-25T07:11:03.722077+00:00",
+      "timestamp": "2026-04-19T07:27:35.388469+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.68666666666667,
+      "mood": "elite",
+      "streak": 1,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-20T08:20:19.481381+00:00",
+      "daily_commits": 8,
+      "daily_prs": 0,
+      "health": 33.68666666666667,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-21T08:02:34.673892+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 32.93333333333333,
+      "mood": "elite",
+      "streak": 1,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-22T07:59:09.425084+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.1,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-23T08:04:44.832564+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.1,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-24T08:13:25.582668+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.11333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-25T07:27:07.046359+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.11333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-26T07:47:39.672970+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.11333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-27T08:34:58.369802+00:00",
       "daily_commits": 1,
       "daily_prs": 0,
+      "health": 34.11333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-28T08:33:37.739287+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.63333333333333,
+      "mood": "elite",
+      "streak": 1,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-29T08:27:04.622214+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.708333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-04-30T08:29:54.947707+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.708333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-01T08:20:25.674633+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.708333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-02T07:52:15.441238+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.708333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-03T08:07:43.766947+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.708333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-04T08:37:21.518891+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.71666666666667,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-05T08:19:56.971490+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.733333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-06T08:34:30.041472+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.733333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-07T08:42:17.050886+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.733333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-08T07:49:08.259977+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.733333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-05-09T08:02:49.302804+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.733333333333334,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "noob"
+    },
+    {
+      "timestamp": "2026-05-10T00:16:53.862973+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
       "health": 33.333333333333336,
-      "mood": "exhausted",
-      "streak": 10,
-      "tier": "elder"
+      "mood": "elite",
+      "streak": 0,
+      "tier": "noob"
     },
     {
-      "timestamp": "2026-03-26T07:18:44.765002+00:00",
+      "timestamp": "2026-05-11T09:51:29.787467+00:00",
       "daily_commits": 0,
       "daily_prs": 0,
-      "health": 30.208333333333332,
-      "mood": "exhausted",
-      "streak": 11,
-      "tier": "elder"
+      "health": 33.333333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "noob"
     },
     {
-      "timestamp": "2026-03-27T07:17:37.050353+00:00",
+      "timestamp": "2026-05-12T08:47:36.787985+00:00",
       "daily_commits": 0,
       "daily_prs": 0,
-      "health": 31.941666666666666,
+      "health": 33.333333333333336,
       "mood": "elite",
-      "streak": 10,
-      "tier": "elder"
+      "streak": 0,
+      "tier": "noob"
     },
     {
-      "timestamp": "2026-03-28T07:05:50.476589+00:00",
+      "timestamp": "2026-05-13T04:19:53.043036+00:00",
       "daily_commits": 0,
       "daily_prs": 0,
-      "health": 33.675000000000004,
+      "health": 33.333333333333336,
       "mood": "elite",
-      "streak": 9,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-29T07:13:06.791981+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 35.32833333333334,
-      "mood": "elite",
-      "streak": 8,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-30T07:52:32.660889+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 37.495000000000005,
-      "mood": "elite",
-      "streak": 7,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-03-31T07:25:34.777903+00:00",
-      "daily_commits": 1,
-      "daily_prs": 0,
-      "health": 38.82833333333334,
-      "mood": "elite",
-      "streak": 6,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-04-01T07:43:23.726111+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 36.041666666666664,
-      "mood": "elite",
-      "streak": 7,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-04-02T07:22:13.429178+00:00",
-      "daily_commits": 3,
-      "daily_prs": 0,
-      "health": 35.5,
-      "mood": "elite",
-      "streak": 6,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-04-03T07:19:12.351122+00:00",
-      "daily_commits": 0,
-      "daily_prs": 0,
-      "health": 36.145833333333336,
-      "mood": "elite",
-      "streak": 7,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-04-04T07:09:08.781581+00:00",
-      "daily_commits": 7,
-      "daily_prs": 0,
-      "health": 35.357142857142854,
-      "mood": "elite",
-      "streak": 6,
-      "tier": "elder"
-    },
-    {
-      "timestamp": "2026-04-05T07:16:07.491433+00:00",
-      "daily_commits": 13,
-      "daily_prs": 0,
-      "health": 34.05416666666667,
-      "mood": "elite",
-      "streak": 7,
+      "streak": 0,
       "tier": "elder"
     }
   ],
   "brutal_stats": {
     "tier": "elder",
-    "github_years": 10.08624229979466,
+    "github_years": 10.190280629705681,
     "social_score": 1.25,
     "social_penalties": [],
     "social_bonuses": [
       "quality_curator"
     ],
-    "avg_repo_quality": 0.842962962962964,
-    "commit_quality_score": 0.8999999999999999,
-    "commit_quality_penalties": [
-      "no_description"
-    ],
+    "avg_repo_quality": 0.8441176470588244,
+    "commit_quality_score": 1.0,
+    "commit_quality_penalties": [],
     "commit_quality_bonuses": [],
     "multipliers": {
       "xp": 0.25,
       "decay": 0.8,
       "requirements": 4.0
     },
-    "total_stars": 614,
-    "self_starred_count": 170,
+    "total_stars": 634,
+    "self_starred_count": 175,
     "language_diversity_penalty": 1.0,
-    "xp_earned": 48.425000000000004,
+    "xp_earned": 2.4,
     "dominant_language": "Python",
-    "issues_closed": 4,
-    "issue_close_ratio": 1.0,
-    "issue_score": 1.3,
+    "issues_closed": 1,
+    "issue_close_ratio": 0.5,
+    "issue_score": 1.2,
     "can_prestige": false,
     "prestige_missing": [
       "Need Level 10"
     ]
   },
-  "last_update": "2026-04-05T07:16:07.491433+00:00"
+  "last_update": "2026-05-13T04:19:53.043036+00:00"
 }

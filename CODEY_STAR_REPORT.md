@@ -1,4 +1,4 @@
-# The Codey Gazette — 2026-05-01
+# The Codey Gazette — 2026-10-15
 
 ![]( https://github.com/VolkanSah.png?size=80)
 
@@ -6,20 +6,20 @@
 
 ---
 
-## BREAKING: 631 real stars (+7 since yesterday)
+## BREAKING: 678 real stars (+4 since yesterday)
 
 > GitHub/Shields inflates your count with self-stars and fork stars.
-> Their number: **842** — the inflation: **211**. You're welcome.
+> Their number: **891** — the inflation: **213**. You're welcome.
 
 ---
 
 | | Count |
 |---|---|
-| Real stars (earned) | **631** |
-| Self-stars removed | 175 |
-| Fork stars removed | 36 |
-| GitHub / Shields shows | 842 |
-| Inflation | 211 |
+| Real stars (earned) | **678** |
+| Self-stars removed | 176 |
+| Fork stars removed | 37 |
+| GitHub / Shields shows | 891 |
+| Inflation | 213 |
 
 ---
 
@@ -28,13 +28,13 @@
 
 | | Active | Archived | Total |
 |---|---|---|---|
-| Own Repos | 130 | 6 | 136 |
-| Own Stars | 540 | 91 | **631** |
-| Forks | 97 | 0 | 97 |
-| Fork Stars _(not counted)_ | 36 | 0 | 36 |
+| Own Repos | 128 | 6 | 134 |
+| Own Stars | 586 | 92 | **678** |
+| Forks | 120 | 0 | 120 |
+| Fork Stars _(not counted)_ | 37 | 0 | 37 |
 
-- Fork Ratio: 0.75 — clean
-- Repos with 0 stars: 38
+- Fork Ratio: 0.94 — clean
+- Repos with 0 stars: 31
 
 </details>
 
@@ -43,16 +43,16 @@
 
 | Repository | Stars |
 |---|---|
-| GPT-API-Integration-in-HTML-CSS-with-JS-PHP | 85 |
+| GPT-API-Integration-in-HTML-CSS-with-JS-PHP | 84 |
 | Exploring-the-Code-Interpreter-in-OpenAI-GPT | 43 |
-| optimize-MySQL-MariaDB | 33 |
+| optimize-MySQL-MariaDB | 40 |
 | AI-API-Security-Best-Practices | 32 |
+| WordPress-Security-Scanner-advanced-use | 23 |
 | ModSecurity-Webserver-Protection-Guide | 23 |
-| WordPress-Security-Scanner-advanced-use | 22 |
-| Auto-Proxy-Fetcher | 19 |
-| PoisonIvory | 17 |
-| Bitcoin-Lottery-Miner | 14 |
-| Implementing-AI-Systems-Whitepaper | 9 |
+| Auto-Proxy-Fetcher | 22 |
+| Bitcoin-Lottery-Miner | 19 |
+| PoisonIvory | 15 |
+| Detection-Labs-for-Palantir-Style-Activity | 15 |
 
 </details>
 
@@ -61,37 +61,40 @@
 
 | Repository | Stars |
 |---|---|
-| GPT-API-Integration-in-HTML-CSS-with-JS-PHP | 85 |
+| GPT-API-Integration-in-HTML-CSS-with-JS-PHP | 84 |
 | Exploring-the-Code-Interpreter-in-OpenAI-GPT | 43 |
-| optimize-MySQL-MariaDB | 33 |
+| optimize-MySQL-MariaDB | 40 |
 | AI-API-Security-Best-Practices | 32 |
+| WordPress-Security-Scanner-advanced-use | 23 |
 | ModSecurity-Webserver-Protection-Guide | 23 |
-| WordPress-Security-Scanner-advanced-use | 22 |
-| Auto-Proxy-Fetcher | 19 |
-| PoisonIvory | 17 |
-| Bitcoin-Lottery-Miner | 14 |
+| Auto-Proxy-Fetcher | 22 |
+| Bitcoin-Lottery-Miner | 19 |
+| PoisonIvory | 15 |
+| Detection-Labs-for-Palantir-Style-Activity | 15 |
+| Multiple-Isolated-Tor-Instances-for-Hidden-Services | 12 |
+| NMAP-Black-Python | 9 |
 | Implementing-AI-Systems-Whitepaper | 9 |
-| Detection-Labs-for-Palantir-Style-Activity | 9 |
-| Multiple-Isolated-Tor-Instances-for-Hidden-Services | 8 |
+| Windows-Cleaner | 9 |
 | VolkanSah | 8 |
-| NMAP-Black-Python | 8 |
 | SherlocksHome | 8 |
 | XSSPY-NCF | 8 |
+| Python-Modules-Overview | 7 |
 | OpenAI-Cost-Calculator | 7 |
-| Windows-Cleaner | 7 |
-| Python-Modules-Overview | 6 |
+| Securing-FastAPI-Applications | 7 |
+| STEP-Viewer-Pro | 7 |
 | The_Extractor.py | 6 |
-| SQLp-EDU | 6 |
+| OpenAI-Text-to-Speech-Interface | 6 |
 | InteliLink | 6 |
+| Awesome-Audio-Visualizer | 6 |
 | ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP | 5 |
 | Human-like-Instagram-Unfollower | 5 |
 | Simple-Keyword-Rank-Scrapper | 5 |
+| SQLp-EDU | 5 |
+| Ransy-EDU | 5 |
 | Monitoring-outgoing-connections | 5 |
-| OpenAI-Text-to-Speech-Interface | 5 |
 | Custom-Fields-Eraser | 5 |
 | TNT | 5 |
 | Python-XPath-Tutorial | 4 |
-| Ransy-EDU | 4 |
 | GPT-over-CLI | 4 |
 | Tor-Network-Application-with-Stem-and-Scapy | 4 |
 | intelligent-Proxy-Management-System | 4 |
@@ -99,29 +102,28 @@
 | writethrough-caching | 3 |
 | Instagram-Suspicious-Followers-Detection | 3 |
 | WP-Facebook-Engagement-Metrics | 3 |
-| PHP-Libraries-Overview | 3 |
 | The_Collector | 3 |
 | Implementierung-von-KI-Systemen-Whitepaper | 3 |
+| Debian-Based-AI-Developer-Server | 3 |
 | Stem-Local-Stream-Logger | 3 |
 | Twitter-X-AINewsBot | 3 |
-| How-to-use-fcrackzip | 3 |
 | OpenAi-GPT-GUI | 3 |
 | Security-Headers-Guide | 3 |
-| Securing-FastAPI-Applications | 3 |
-| STEP-Viewer-Pro | 3 |
 | Website-Backup-with-Wget | 2 |
 | encode-and-decode-php8 | 2 |
 | advanced-RAM-use-on-Bash-installed-systems | 2 |
 | Apache2-with-Nginx-Reverse-Proxy-and-Let-s-Encrypt-SSL-on-Debian-Ubuntu | 2 |
-| Debian-Based-AI-Developer-Server | 2 |
+| PHP-Libraries-Overview | 2 |
 | Web-Interface-for-Running-Python-Scripts | 2 |
 | Python-Script-Runner-Debugger | 2 |
 | Python-Command-Overview-for-handling-files | 2 |
 | Web-Business-Card | 2 |
+| How-to-use-fcrackzip | 2 |
 | Text-to-Speech-PyGUI-for-Whisper | 2 |
 | x201-BatConsole | 2 |
 | CryptoScanner | 2 |
 | Android-GOD-Mode | 2 |
+| CMIFC | 2 |
 | Safe-Honeypot | 2 |
 | Bash-script-for-monitoring-and-restarting-services | 1 |
 | creatig-Joomla-plugin-like-for-breadcrumbs | 1 |
@@ -147,11 +149,14 @@
 | How-to-Kill-Crypto-Money | 1 |
 | CSS-Cleaner | 1 |
 | Super-Sexy-Custom-Buttons | 1 |
+| TSO-Swift-Simulator-fork | 1 |
 | CryptGuardian | 1 |
 | External-DB-Dummy-Plugin-for-WordPress | 1 |
+| Codey | 1 |
 | CLI-Baseline | 1 |
 | ig2-terrain-generator | 1 |
 | Check-Git-ML-Repo-Analyzer | 1 |
+| ai-hub | 1 |
 | How-to-Secure-Your-Git-Ass | 1 |
 
 </details>
@@ -163,7 +168,7 @@
 |---|---|
 | ChatGPT-ShellMaster | 58 |
 | aicc-comments-reply | 21 |
-| WP-Claude-Interface | 7 |
+| WP-Claude-Interface | 8 |
 | Social-Media-Poster-GUI | 4 |
 | Obsidian-Nightfall | 1 |
 | The-Guild-2-Gun-Factory | 0 |
@@ -208,6 +213,7 @@
 | air-light-fork | 1 |
 | btc-hack-fork | 1 |
 | wp-autoplugin-fork | 1 |
+| Ripple-Lead-Finder-fork | 1 |
 
 </details>
 
